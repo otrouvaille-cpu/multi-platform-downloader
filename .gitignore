@@ -1,0 +1,29 @@
+# Runtimes (download via portable_update_tools.ps1)
+*.exe
+*.dll
+external/python/
+
+# Downloaded packages
+_packages/
+
+# User data (cookies, logs, state, profiles)
+_user_data/
+
+# Sensitive data
+external/douyin-downloader/.cookies.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.egg-info/
+
+# NuGet packages
+*.nupkg
+
+# Temp files
+*.tmp
+*~
+
+# WebView2 cache
+external/webview2/
+external/uv-cache/
