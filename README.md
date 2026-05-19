@@ -34,7 +34,7 @@ cd multi-platform-downloader
 .\video_downloader_gui.ps1
 ```
 
-或者直接下载 [Releases](https://github.com/otrouvaille-cpu/multi-platform-downloader/releases) 中的完整包，解压即用。
+或者从 [Releases](https://github.com/otrouvaille-cpu/multi-platform-downloader/releases) 下载完整包，解压即用。
 
 ## Requirements
 
