@@ -24,7 +24,7 @@
 
 ```powershell
 # 克隆仓库
-git clone https://github.com/YOUR_USERNAME/multi-platform-downloader.git
+git clone https://github.com/otrouvaille-cpu/multi-platform-downloader.git
 cd multi-platform-downloader
 
 # 一键安装运行时依赖（deno / ffmpeg / yt-dlp / uv / 抖音后端）
@@ -34,7 +34,7 @@ cd multi-platform-downloader
 .\video_downloader_gui.ps1
 ```
 
-或者直接下载 [Releases](https://github.com/YOUR_USERNAME/multi-platform-downloader/releases) 中的完整包，解压即用。
+或者直接下载 [Releases](https://github.com/otrouvaille-cpu/multi-platform-downloader/releases) 中的完整包，解压即用。
 
 ## Requirements
 
